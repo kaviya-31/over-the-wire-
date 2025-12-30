@@ -5,7 +5,7 @@ The host to which you need to connect is bandit.labs.overthewire.org, on port 22
 The username is bandit0 and the password is bandit0. Once logged in, go to the Level 1 page to find out how to beat Level 1.
 
 
-🚀 OverTheWire Bandit – Level 0
+ OverTheWire Bandit – Level 0
 
 I successfully connected to the Bandit server using SSH and completed Level 0.
 
@@ -15,7 +15,7 @@ I successfully connected to the Bandit server using SSH and completed Level 0.
 🔹 Command used:
    ssh bandit0@bandit.labs.overthewire.org -p 2220
 
-📸 Screenshot proof is attached above.
+ Screenshot proof is attached above.
 
 This is part of my cybersecurity learning journey where I am practicing Linux, SSH, and basic security concepts.
 
